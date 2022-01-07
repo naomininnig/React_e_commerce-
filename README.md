@@ -2,7 +2,9 @@
 React e-commerce project (DCI School react final project)
 
 :star: Features
+<br>
 Authentication (Signup, Login, logout, newsletter).
+<br>
 Add Items to Cart.
 View detailed product links
 Customers can search for the product according to the specified criteria.
