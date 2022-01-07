@@ -20,6 +20,8 @@ React Forms.
 The website is still not fully functioning with backend, that will come soon.
 Enjoy!
 
+![slider](https://github.com/naomininnig/React_e_commerce-/blob/main/mockup/slider_image.png)
+
 
 
 
