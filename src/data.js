@@ -25,7 +25,7 @@ export const sliderItems = [
 export const categories = [
     {
         id:4,
-        img:"./images/soul_spice_duft_shopify_2048.png",
+        img:"./images/cat_duft.png",
         title:"Bestseller"
     },
     {
@@ -35,7 +35,7 @@ export const categories = [
     },
     {
         id:6,
-        img:"./images/soul_spices_alpenkrauter_shopify_2048.png",
+        img:"./images/cat_sumach.png",
         title:"Mischungen"
     },
 ]

@@ -14,7 +14,7 @@ const Img = styled.img
 `
 width: 100%;
 height:100%;
-object-fit: cover;
+object-fit: contain;
 margin-left: 50px;
 ${mobile({ maxHeight:"40vh", maxWidth:"80%", display:"block", paddingLeft:"50px"})}
 `
