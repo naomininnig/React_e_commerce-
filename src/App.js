@@ -11,7 +11,7 @@ import Product from './pages/Product';
 import ProductList from './pages/ProductList';
 import Register from './pages/Register';
 import UserState from './Context/UserState';
-import Products from './Components/Products';
+
 
 
 function App() {
